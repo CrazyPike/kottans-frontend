@@ -2,7 +2,7 @@
 
 My feeling about the learned material is more clean understanding how to use guthub or gitlab in the collaboration process.
 
-## ## Linux CLI, and HTTP
+## Linux CLI, and HTTP
 1 - bash programming 2 - what can be done thru bash 3 - might be bash
 
 https://github.com/CrazyPike/kottans-frontend/tree/master/task_linux_cli
