@@ -15,4 +15,9 @@ https://github.com/CrazyPike/kottans-frontend/tree/master/task_git_collaboration
 ## Intro to HTML and CSS
 
 1 - some tricks with CSS 2 - I had basic knowledge before 3 - HTML and CSS are ground for frontend development
+https://github.com/CrazyPike/kottans-frontend/tree/master/task_html_css_intro
 
+## Responsive Web Design
+
+1- some things about responsive design 2 - flexbox 3 - I will use it all 
+://github.com/CrazyPike/kottans-frontend/tree/master/task_responsive_web_design
