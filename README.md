@@ -21,3 +21,8 @@ https://github.com/CrazyPike/kottans-frontend/tree/master/task_html_css_intro
 
 1- some things about responsive design 2 - flexbox 3 - I will use it all 
 ://github.com/CrazyPike/kottans-frontend/tree/master/task_responsive_web_design
+
+## JS Basics
+
+1 - nothing 2 -nothing 3 all the basics will be used
+https://github.com/CrazyPike/kottans-frontend/tree/master/task_js_basics
