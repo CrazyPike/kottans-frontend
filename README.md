@@ -11,3 +11,8 @@ https://github.com/CrazyPike/kottans-frontend/tree/master/task_linux_cli
 
 1 - how to work thru the github 2 none 3 - github/gitlab for collaboration
 https://github.com/CrazyPike/kottans-frontend/tree/master/task_git_collaboration
+
+## Intro to HTML and CSS
+
+1 - some tricks with CSS 2 - I had basic knowledge before 3 - HTML and CSS are ground for frontend development
+
