@@ -26,3 +26,8 @@ https://github.com/CrazyPike/kottans-frontend/tree/master/task_html_css_intro
 
 1 - nothing 2 -nothing 3 all the basics will be used
 https://github.com/CrazyPike/kottans-frontend/tree/master/task_js_basics
+
+#### DOM
+
+https://github.com/CrazyPike/kottans-frontend/tree/master/task_js_dom
+1 - some things about dom, 2 - event delegation 3 - event delegation and stop propogation 
